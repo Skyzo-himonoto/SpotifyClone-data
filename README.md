@@ -36,9 +36,9 @@ npm install lucide-react howler wouter @tanstack/react-query @supabase/supabase-
 ​Pastikan font Figtree atau Circular Std sudah terdaftar di index.html agar tampilan navigasi dan teks terlihat mirip dengan aslinya.
 ​Semua data lagu ditarik melalui integrasi API yang sudah dikonfigurasi di dalam kodingan.
 
-## 🛠️ Issues (Laporan Kendala & Struktur Folder)
+🛠️ Issues (Laporan Kendala & Struktur Folder)
 
-### 📁 Daftar Folder & File Utama (kalo eror lapor gan)
+📁 Daftar Folder & File Utama (kalo eror lapor gan)
 Pastiin folder lu isinya lengkap kayak gini:
 
 1. `client/src/components/`
@@ -52,7 +52,7 @@ Pastiin folder lu isinya lengkap kayak gini:
 5. `client/src/pages/`
    - Isinya: `Home.tsx`, `Search.tsx`, `Library.tsx`.
 
-### 📝 Cara Lapor Bug / Folder Ilang
+📝 Cara Lapor Bug / Folder Ilang
 Kalau ada yang nggak sesuai sama daftar di atas, lapor pake format ini:
 
 1. **Judul**: [BUG] Nama Error / Folder yang Ilang
@@ -60,6 +60,6 @@ Kalau ada yang nggak sesuai sama daftar di atas, lapor pake format ini:
 3. **Screenshot**: Lampirin foto error-nya. 
    - **Caranya**: Cukup **Copy-Paste** gambar atau **Drag & Drop** foto lu langsung ke kotak pesan GitHub ini. Gak perlu ribet pake link!
 
-**Masalah Umum (FAQ):
+Masalah Umum (FAQ):
 - **Folder Kosong**: Kalo folder `hooks`, `lib`, atau `pages` nggak muncul di GitHub, itu karena isinya belum di-upload (Git nggak suka folder kosong). Cek lagi file `.tsx` atau `.ts` lu.
 - **Slider Kepotong**: Itu masalah layout mobile. Langsung cek bagian `Mobile Layout` di atas buat cara benerinnya.
