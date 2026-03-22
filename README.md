@@ -41,15 +41,15 @@ npm install lucide-react howler wouter @tanstack/react-query @supabase/supabase-
 ### 📁 Daftar Folder & File Utama (kalo eror lapor gan)
 Pastiin folder lu isinya lengkap kayak gini:
 
-1. **`client/src/components/`**
+1. `client/src/components/`
    - Isinya: `Player.tsx` (Pemutar musik), `SongCard.tsx` (Kartu lagu), `Sidebar.tsx`.
-2. **`client/src/components/ui/`**
+2. `client/src/components/ui/`
    - Isinya: `slider.tsx` (Bar durasi), `toast.tsx` (Notifikasi), `button.tsx`.
-3. **`client/src/hooks/`**
+3. `client/src/hooks/`
    - Isinya: `use-store.ts` (Ini otaknya! Tanpa ini lagu nggak bakal muter).
-4. **`client/src/lib/`**
+4. `client/src/lib/`
    - Isinya: `supabase.ts` (Koneksi database), `uuid-utils.ts` (ID unik buat Like).
-5. **`client/src/pages/`**
+5. `client/src/pages/`
    - Isinya: `Home.tsx`, `Search.tsx`, `Library.tsx`.
 
 ### 📝 Cara Lapor Bug / Folder Ilang
@@ -60,6 +60,6 @@ Kalau ada yang nggak sesuai sama daftar di atas, lapor pake format ini:
 3. **Screenshot**: Lampirin foto error-nya. 
    - **Caranya**: Cukup **Copy-Paste** gambar atau **Drag & Drop** foto lu langsung ke kotak pesan GitHub ini. Gak perlu ribet pake link!
 
-**Masalah Umum (FAQ):**
+**Masalah Umum (FAQ):
 - **Folder Kosong**: Kalo folder `hooks`, `lib`, atau `pages` nggak muncul di GitHub, itu karena isinya belum di-upload (Git nggak suka folder kosong). Cek lagi file `.tsx` atau `.ts` lu.
 - **Slider Kepotong**: Itu masalah layout mobile. Langsung cek bagian `Mobile Layout` di atas buat cara benerinnya.
