@@ -61,7 +61,7 @@ VITE_SUPABASE_ANON_KEY=ANON_KEY_LU
 
 Fix Mobile Layout: kalau slider progress di HP tertutup navigasi bawah, buka Player.tsx dan tambahkan padding-bottom 
 (pb-24) pada container Full-Screen Player.
-​
+
 Font Premium: Pastikan font Figtree atau Circular Std sudah terdaftar di index.html agar UI mirip aslinya.
 
 TypeScript Safety: Project ini menggunakan format .tsx agar lebih aman dari suspend GitHub dan deteksi error lebih cepat
