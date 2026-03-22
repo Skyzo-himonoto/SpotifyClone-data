@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone React - Full Stack
 
-Project ini clone platform musik Spotify yang dibangun menggunakan ekosistem modern web development. Fokus utama project ini adalah performa pemutaran musik yang lancar dan sinkronisasi data database.
+Project ini clone platform musik Spotify yang dibangun menggunakan ekosistem modern web development. Fokus utama project ini adalah performa pemutaran musik yang lancar dan sinkronisasi data database, masang di mana aja asal tau diri.
 
 
 ## 🛠️ Persyaratan Sistem (Manual Setup)
