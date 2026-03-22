@@ -40,10 +40,15 @@ STEP 2: GENERATE CODE VIA AI (Pilih AI Favorit Lu)
 ```
 ​📂 STEP 3: STRUKTUR FILES (WAJIB SESUAI!)
 ​Pindahkan hasil kodingan dari AI tadi ke folder masing-masing:
+
 ​📁 client/src/components/ -> Player.tsx, SongCard.tsx, Sidebar.tsx.
+
 ​📁 client/src/components/ui/ -> slider.tsx, toast.tsx, button.tsx.
+
 ​📁 client/src/hooks/ -> use-store.ts (Otak Musik).
+
 ​📁 client/src/lib/ -> supabase.ts, uuid-utils.ts.
+
 ​📁 client/src/pages/ -> Home.tsx, Search.tsx, Library.tsx.
 
 ​⚙️ STEP 4: KONFIGURASI DATABASE (.env)
