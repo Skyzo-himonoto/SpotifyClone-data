@@ -33,6 +33,7 @@ Note Termux: Jika terjadi error saat instalasi library, jalankan perintah termux
 ​"Buatkan file shared/schema.ts untuk tabel lagu (judul, artist, url, duration). Lalu buatkan client/src/lib/supabase.ts
 ```
 untuk koneksi database dan client/src/hooks/use-store.ts menggunakan Howler.js untuk handle state global pemutar musik."
+
 ​2. Setup Backend & API (Server Side)
 ```text
 "Buatkan file server/routes.ts menggunakan Express untuk menyediakan API endpoint daftar lagu, dan server/storage.ts 
